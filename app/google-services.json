@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "34880772991",
+    "firebase_url": "https://apptiendad.firebaseio.com",
+    "project_id": "apptiendad",
+    "storage_bucket": "apptiendad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34880772991:android:c598a010ff7fb8b37ad84a",
+        "android_client_info": {
+          "package_name": "com.example.apptiendad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34880772991-8q8gqct1ivg6n3du3pt28748ipm30q79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apptiendad",
+            "certificate_hash": "0003f22d519c4886e72a6d54f51609e346912302"
+          }
+        },
+        {
+          "client_id": "34880772991-4n012dhif2onf8svhl5p1aksagf16o5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apptiendad",
+            "certificate_hash": "d133177198ad08f81d7ef0683bf4e4251bb5ea64"
+          }
+        },
+        {
+          "client_id": "34880772991-g4op0ktb9v0mkqjqd4m6fhodag9p04nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9obLsJIBsIXRvnC3aXqoUYZafSAPy05s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34880772991-g4op0ktb9v0mkqjqd4m6fhodag9p04nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
